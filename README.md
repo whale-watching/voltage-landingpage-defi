@@ -207,6 +207,7 @@ Project Link: [https://github.com/github.com/voltage-landingpage-defi](https://g
 [Gatsby]: https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white
 
 
+
 <!-- Backend -->
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
